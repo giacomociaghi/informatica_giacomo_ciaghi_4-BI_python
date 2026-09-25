@@ -1,0 +1,3 @@
+py -3.12 -m venv M0_ambiente\.venv
+git status
+git check-ignore -v M0_ambiente/.venv/pyvenv.cfg
