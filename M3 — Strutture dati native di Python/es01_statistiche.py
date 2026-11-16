@@ -18,7 +18,7 @@ print(f"Media: {media_voti:.2f}")
 print(f"Voto minimo: {voto_minimo}")
 print(f"Voto massimo: {voto_massimo}")
 print(f"Sufficienti: {sufficienti} su {numero_voti}")
-
+ 
 
 #output
 #Voti registrati: 8
